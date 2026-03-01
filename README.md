@@ -4,10 +4,6 @@ A 2D browser-based Survival RPG Monster-tamer game.
 
 This project will focus on building a game from scratch using only HTML and Vanilla JavaScript. 
 
-<p align="center">
-  <img src="./assets/banner.jpg" width="500" height="400">
-</p>
-
 ---
 
 ## Main Features
@@ -39,7 +35,3 @@ Future Roadmap:
 Coming soon...
 
 ---
-
-
-
-
